@@ -1,7 +1,7 @@
 # 🌟 Winter of Opensource
 ## Visit [Winter of Opensource](https://winterofopensource.super.site/) 🌟  
 *Contribute. Collaborate. Create.*
-
+*### Made with ❤️ using Super and Notion* 
 ---
 
 ## 🎉 Welcome to Winter of Opensource  
@@ -51,3 +51,4 @@ Here’s what you can expect from **Winter of Opensource**:
 ## 💻 Featured Tech Stacks  
 ```
 JavaScript | Python | C++ | HTML & CSS | Java
+```
