@@ -1,7 +1,7 @@
 # 🌟 Winter of Opensource
 ## Visit [Winter of Opensource](https://winterofopensource.super.site/) 🌟  
 *Contribute. Collaborate. Create.*
-*### Made with ❤️ using Super and Notion* 
+### *Made with ❤️ using Super and Notion* 
 ---
 
 ## 🎉 Welcome to Winter of Opensource  
