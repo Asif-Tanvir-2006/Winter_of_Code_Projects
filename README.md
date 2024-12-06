@@ -1,4 +1,5 @@
-# 🌟 [Winter of Opensource](https://your-supersite-link.com](https://winterofopensource.super.site/) 🌟  
+# 🌟 Winter of Opensource
+## Visit [Winter of Opensource](https://winterofopensource.super.site/) 🌟  
 *Contribute. Collaborate. Create.*
 
 ---
